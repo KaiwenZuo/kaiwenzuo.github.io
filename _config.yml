@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaiwen Zuo / Site Title"
+title                    : "Kaiwen Zuo"
 title_separator          : "-"
 name                     : &name "Kaiwen Zuo"
 description              : &description "Prospective PhD Student"

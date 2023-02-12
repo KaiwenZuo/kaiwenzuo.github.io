@@ -20,10 +20,10 @@ Hi there, I obtained Master’s degree from the department of computing, [Newcas
 
 ## Work Experience
 * <strong>Huawei Technologies Co., Ltd</strong>, 2019
-                  <br>Hardware Engineer Inter</br>
+                  <br>Hardware Engineer Inter
 
 * <strong>Shenzhen Sanfengda Technology Co.,Ltd</strong>, 2021
-                   <br>Software Engineer Intern</br>
+                   <br>Software Engineer Intern
 
 
 ## Awards

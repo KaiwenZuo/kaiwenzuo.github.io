@@ -19,11 +19,11 @@ Hi there, I obtained Master’s degree from the department of computing, [Newcas
 * PM 2.5 data analysis and prediction of Urban Observatory platform, 2022
 
 ## Work Experience
-* <p><strong>Huawei Technologies Co., Ltd</strong>, 2019</p>
-                  <p>Hardware Engineer Inter</p>
+* <strong>Huawei Technologies Co., Ltd</strong>, 2019
+                  <br>Hardware Engineer Inter</br>
 
-* <p><strong>Shenzhen Sanfengda Technology Co.,Ltd</strong>, 2021</p>
-                   <p>Software Engineer Intern</p>
+* <strong>Shenzhen Sanfengda Technology Co.,Ltd</strong>, 2021
+                   <br>Software Engineer Intern</br>
 
 
 ## Awards

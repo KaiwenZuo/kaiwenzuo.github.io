@@ -13,7 +13,6 @@ Hi there, I obtained Master’s degree from the department of computing, [Newcas
 <strong>I am actively looking for a Ph.D. position, please feel free to contact me.</strong>
 
 ## Work experience
-======
 * <strong>Huawei Technologies Co., Ltd</strong>, 2019
 Hardware Engineer Inter
 

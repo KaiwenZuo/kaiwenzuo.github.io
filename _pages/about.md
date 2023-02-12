@@ -17,7 +17,7 @@ Hi there, I obtained Master’s degree from the department of computing, [Newcas
                   <p>Hardware Engineer Inter</p>
 
 * <strong>Shenzhen Sanfengda Technology Co.,Ltd</strong>, 2021
-                   <p>* Software Engineer Intern</p>
+                   <p>Software Engineer Intern</p>
 
 
 Getting started

@@ -13,9 +13,9 @@ Hi there, I obtained Master’s degree from the department of computing, [Newcas
 <strong>I am actively looking for a Ph.D. position, please feel free to contact me.</strong>
 
 ## Selected Project
-* Vehicle License Plate Recognition System(Scored 89 on Bechelor's Dissertation),2021
+* Vehicle License Plate Recognition System(<strong>Scored 89 on Bechelor's Dissertation</strong>),2021
 * Castle Travel Website Development, 2022
-* Gesture Recognition System Based on Deep Learning (Scored 80 on Master's Dissertation),2022
+* Gesture Recognition System Based on Deep Learning (<strong>Scored 80 on Master's Dissertation</strong>),2022
 * PM 2.5 data analysis and prediction of Urban Observatory platform, 2022
 
 ## Work Experience

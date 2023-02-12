@@ -27,6 +27,6 @@ Hi there, I obtained Master’s degree from the department of computing, [Newcas
 
 
 ## Awards
-* The 3rd Prize at NationalCollege Students’ MathematicalContest 
+* The 3rd Prize at the Chinese Mathematics Competitions 
 * H Prize of MCM/ICM
 * Excellentteam of Lancaster University Summer Program

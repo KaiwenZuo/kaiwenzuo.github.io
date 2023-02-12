@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hi there, I obtained Master’s degree from the department of computing, [Newcastle University](https://www.ncl.ac.uk), supervised by [Jennifer Warrender](http://homepages.cs.ncl.ac.uk/jennifer.warrender/website/home.html). Prior to joining to Newcastle University,I completed my Bachelor’s degree in communication engineering at [Beijing Jiaotong University(BJTU)](http://en.njtu.edu.cn/). My research interest lied in computer vision, reinforcement learning and Data analysis. Currently I am trying to condo Inflammation Recognition Model using image stitching and recognition algorithm. See full researc proposal for detail.
+
 I am actively looking for a Ph.D. position, please feel free to contact me.
 
 A data-driven personal website

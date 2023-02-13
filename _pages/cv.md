@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical & Communication Engineering, Beijing jiaotong University, 2016-2021
+* B.S. in Electrics & Communication Engineering, Beijing jiaotong University, 2016-2021
 * B.S. in Electrics & Communication Engineering, Lancaster University, 2016-2021
 * M.S. in Computer sciecne, Newcastle University, 2021-2022
  

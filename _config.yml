@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaiwen Zuo"
   avatar           : "profile.png"
-  bio              : "Prospective PhD Student"
+  bio              : "Prospective PhD Student""K.Zuo2@newcastle.ac.uk"
   location         : "UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            :"K.Zuo2@newcastle.ac.uk"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :"https://www.youtube.com/channel/UCN_rWtDRFOJ3FTaVj5bDSVA"
+  youtube          : "https://www.youtube.com/channel/UCN_rWtDRFOJ3FTaVj5bDSVA"
   wikipedia        :
 
 

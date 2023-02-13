@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I obtained Master’s degree from the department of computing, [Newcastle University](https://www.ncl.ac.uk), supervised by [Jennifer Warrender](http://homepages.cs.ncl.ac.uk/jennifer.warrender/website/home.html). Prior to joining to Newcastle University,I completed my Bachelor’s degree in Electrial& Communication Engineering at [Beijing Jiaotong University(BJTU)](http://en.njtu.edu.cn/),supervised by [Fune Chen](https://biography.omicsonline.org/china/beijing-jiaotong-university/chen-fuen-621641). My research interest lied in computer vision, reinforcement learning and Data analysis. Currently I am trying to condo Inflammation Recognition Model using image stitching and recognition algorithm. See full research proposal for detail.
+Hi there, I obtained Master’s degree from the department of computing, [Newcastle University](https://www.ncl.ac.uk), supervised by [Jennifer Warrender](http://homepages.cs.ncl.ac.uk/jennifer.warrender/website/home.html). Prior to joining to Newcastle University,I completed my Bachelor’s degree in Electrial& Communication Engineering at [Beijing Jiaotong University(BJTU)](http://en.njtu.edu.cn/),supervised by [Fune Chen](https://biography.omicsonline.org/china/beijing-jiaotong-university/chen-fuen-621641). My research interest lied in computer vision, reinforcement learning and Data analysis. Currently I am trying to condo Inflammation Recognition Model using image stitching and recognition algorithm.
 
 <strong>I am actively looking for a Ph.D. position, please feel free to contact me.</strong>
 
